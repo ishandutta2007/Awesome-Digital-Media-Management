@@ -1,6 +1,6 @@
 # Awesome-Digital-Media-Management
 
-# Top Digital Media Management Ecosystem
+## Top Digital Media Management Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Music Distribution, Library Streaming & Creator Monetization*  
