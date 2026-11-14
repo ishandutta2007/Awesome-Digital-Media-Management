@@ -57,7 +57,7 @@ A comparative directory of cloud-hosted SaaS platforms for digital audio distrib
 
 Explore self-hosted streaming servers, command-line collection organizers, DDEX distribution backends, and federated audio sharing platforms. Ranked in descending order by GitHub stargazers count. 🌟
 
-| Project | ⭐ Star Count | 📝 Description | 🛠️ Primary Tech Stack |
+| Project | ⭐ Stars_Count | 📝 Description | 🛠️ Primary Tech Stack |
 |:---|:---:|:---|:---|
 | **[Koel](https://github.com/koel/koel)** | [![Stars](https://img.shields.io/github/stars/koel/koel?style=social&color=white)](https://github.com/koel/koel/stargazers) | Modern web-based personal audio streaming server with a clean Spotify-like UI, remote control features, and instant transcoding. 📻 | PHP, Laravel, Vue.js |
 | **[Beets](https://github.com/beetbox/beets)** | [![Stars](https://img.shields.io/github/stars/beetbox/beets?style=social&color=white)](https://github.com/beetbox/beets/stargazers) | The definitive media library management system and CLI tagger for music geeks. Autotags files using MusicBrainz, Discogs, and Spotify databases. 🏷️ | Python, SQLite |
@@ -125,7 +125,7 @@ We welcome community contributions from artists, software engineers, and digital
 1. 🍴 **Fork this repository** to your personal GitHub account.
 2. ✍️ **Add or update an entry** in [README.md](file:///C:/Users/ishan/Documents/Projects/Awesome-Digital-Media-Management/README.md).
    - For SaaS tools: ensure pricing and free tier/trial limits are specific and verifiable.
-   - For Open-Source repositories: ensure the repository link and star badge follow the existing format:
+   - For Open-Source repositories: ensure the repository link and Stars_Badge follow the existing format:
      ```markdown
      | **[RepoName](https://github.com/owner/repo)** | [![Stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers) | Description | Tech Stack |
      ```
